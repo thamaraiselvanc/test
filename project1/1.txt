@@ -1,1 +1,5 @@
-this first line
+<<<<<<< HEAD
+
+=======
+this is user2 files
+>>>>>>> user2
